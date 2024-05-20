@@ -1,1 +1,10 @@
 this is test file
+git --version
+	git init : for creating repository 
+	ls :to see list of files and folders 
+	touch :- wanted to create file 
+		whenever u r working with ur local laptop it will work on 'master' branch
+	vi naveen.txt :(visual Interface)
+	i				:(insert something)
+	Esc(button) :wq (save)
+	cat naveen.txt :(see the content)
