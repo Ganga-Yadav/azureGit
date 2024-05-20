@@ -8,3 +8,6 @@ git --version
 	i				:(insert something)
 	Esc(button) :wq (save)
 	cat naveen.txt :(see the content)
+
+	This is develooper2 file.
+
