@@ -7,4 +7,6 @@ git --version
 	vi naveen.txt :(visual Interface)
 	i				:(insert something)
 	Esc(button) :wq (save)
-	cat naveen.txt :(see the content)
+        cat naveen.txt :(see the content)
+
+	this changes made by developer1
